@@ -18,20 +18,6 @@ I'm an AI and Machine Learning student interested in building practical projects
 **Tools:** Jupyter Notebook, Git, GitHub
 **Currently Learning:** OpenCV, SQL, FastAPI, and Deep Learning
 
-## Featured Project
-
-### Spam Message Classification with Naive Bayes
-
-A text classification project that compares a manual implementation of Multinomial Naive Bayes with Scikit-learn's `MultinomialNB`.
-
-**What I practiced:**
-
-* Text cleaning and preprocessing
-* Vocabulary creation
-* Manual Naive Bayes implementation
-* Model evaluation using precision, recall, F1-score, and confusion matrix
-* Writing clean project documentation for GitHub
-
 ## Goals
 
 I'm currently building my AI and Machine Learning portfolio through practical projects in:
