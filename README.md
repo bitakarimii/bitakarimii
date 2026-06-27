@@ -1,11 +1,47 @@
-- 👋 Hi, I’m @bitakarimii
-- 👀 I’m interested in math
-- 🌱 I’m currently learning python 
-- 💞️ I’m looking to collaborate on AI
-- 📫 kbita2004@gmail.com
-- ⚡ Fun fact: I'm fluent in two languages and currently working on learning chinese
+# Hi, I'm Bita Karimi
 
-<!---
-bitakarimii/bitakarimii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm an AI and Machine Learning student interested in building practical projects with Python, data analysis, and computer vision.
+
+## Current Focus
+
+* Machine Learning with Python
+* Data analysis and model evaluation
+* Computer vision and image processing
+* Text classification and applied ML projects
+* Preparing a strong portfolio for AI internship opportunities
+
+## Skills
+
+**Programming:** Python
+**Data & ML:** Pandas, NumPy, Scikit-learn
+**Machine Learning:** Classification, text preprocessing, model evaluation
+**Tools:** Jupyter Notebook, Git, GitHub
+**Currently Learning:** OpenCV, SQL, FastAPI, and Deep Learning
+
+## Featured Project
+
+### Spam Message Classification with Naive Bayes
+
+A text classification project that compares a manual implementation of Multinomial Naive Bayes with Scikit-learn's `MultinomialNB`.
+
+**What I practiced:**
+
+* Text cleaning and preprocessing
+* Vocabulary creation
+* Manual Naive Bayes implementation
+* Model evaluation using precision, recall, F1-score, and confusion matrix
+* Writing clean project documentation for GitHub
+
+## Goals
+
+I'm currently building my AI and Machine Learning portfolio through practical projects in:
+
+* Data analysis
+* Machine learning
+* Computer vision
+* Model deployment
+
+## Contact
+
+* GitHub: @bitakarimii
+* Email: [kbita2004@gmail.com](mailto:kbita2004@gmail.com)
